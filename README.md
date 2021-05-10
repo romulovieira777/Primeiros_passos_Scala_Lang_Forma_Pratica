@@ -12,4 +12,4 @@
 - Seção 09 - Recursion
 - Seção 10 - Conclusão
 
-[Link para o curso]: [Udemy](https://www.udemy.com/share/104u2ACUMTdVZTRX4=/)
+Link para o curso: [Udemy](https://www.udemy.com/share/104u2ACUMTdVZTRX4=/)
